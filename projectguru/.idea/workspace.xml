@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6551c26-7954-4869-8bee-13a2e4b95fb3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aKz5fSlvI5uHwZ8ToJ2TiGhjmD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\python\projectguru\app\app" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\python\projectguru\Image" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.flask (1)">
+    <configuration name="dictcsv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="projectguru" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictcsv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="flask (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="projectguru" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="flask" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="projectguru" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Sudhir\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="F:\python\projectguru\app\app\flask.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="projectguru" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="projectguru" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Sudhir\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.projectguru" />
+      <item itemvalue="Python.dictcsv" />
+      <item itemvalue="Python.flask" />
+      <item itemvalue="Python.flask (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.flask (1)" />
+        <item itemvalue="Python.flask" />
+        <item itemvalue="Python.dictcsv" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6551c26-7954-4869-8bee-13a2e4b95fb3" name="Default Changelist" comment="" />
+      <created>1586498892039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586498892039</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588255855504">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1588255855504" />
+    <state x="463" y="67" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1588255788836">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="67" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1588255788836" />
+    <state x="402" y="0" key="#dictcsv" timestamp="1587823125429">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="0" key="#dictcsv/0.0.1366.728@0.0.1366.728" timestamp="1587823125429" />
+    <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1588255827178">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588255827178" />
+    <state width="1338" height="273" key="GridCell.Tab.0.bottom" timestamp="1588258687679">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1338" height="273" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588258687679" />
+    <state width="1338" height="273" key="GridCell.Tab.0.center" timestamp="1588258687679">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1338" height="273" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588258687679" />
+    <state width="1338" height="273" key="GridCell.Tab.0.left" timestamp="1588258687679">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1338" height="273" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588258687679" />
+    <state width="1338" height="273" key="GridCell.Tab.0.right" timestamp="1588258687679">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1338" height="273" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588258687679" />
+    <state width="1348" height="219" key="GridCell.Tab.1.bottom" timestamp="1588015821438">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1348" height="219" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588015821438" />
+    <state width="1348" height="219" key="GridCell.Tab.1.center" timestamp="1588015821438">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1348" height="219" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1588015821438" />
+    <state width="1348" height="219" key="GridCell.Tab.1.left" timestamp="1588015821438">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1348" height="219" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1588015821438" />
+    <state width="1348" height="219" key="GridCell.Tab.1.right" timestamp="1588015821438">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1348" height="219" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1588015821438" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1588254691873">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588254691873" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1588254608017">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588254608017" />
+    <state x="254" y="98" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1587822964950">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="254" y="98" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1587822964950" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dictcsv.py</url>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dictcsv.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dictcsv.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

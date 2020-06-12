@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8f91786-e21f-4497-9b49-8457660b59b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bGW2gmsf1w0MGeA7YxpJJroYYR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pytest/test_fstdem.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.try">
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\python\app\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="F:\python\app\demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_fstdem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytest/test_fstdem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tts.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in bin" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="F:\python\app\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_fstdem.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="F:\python\app\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/pytest/test_fstdem.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in testing.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="F:\python\app\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/../pytest/selenium/testing.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.demo" />
+      <item itemvalue="Python.tts" />
+      <item itemvalue="Python.test_fstdem" />
+      <item itemvalue="Python.try" />
+      <item itemvalue="Python tests.pytest in test_fstdem.py" />
+      <item itemvalue="Python tests.pytest in bin" />
+      <item itemvalue="Python tests.pytest in testing.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.try" />
+        <item itemvalue="Python.tts" />
+        <item itemvalue="Python.test_fstdem" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8f91786-e21f-4497-9b49-8457660b59b9" name="Default Changelist" comment="" />
+      <created>1588258705235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588258705235</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="177" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591711262279">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="177" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1591711262279" />
+    <state x="396" y="0" key="#flask" timestamp="1588259046690">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="396" y="0" key="#flask/0.0.1366.728@0.0.1366.728" timestamp="1588259046690" />
+    <state x="411" y="124" key="EnvironmentVariablesDialog" timestamp="1588259140161">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="411" y="124" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1588259140161" />
+    <state x="457" y="117" key="FileChooserDialogImpl" timestamp="1591711305658">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="457" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591711305658" />
+    <state width="1366" height="257" key="GridCell.Tab.0.bottom" timestamp="1591784430917">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1366" height="257" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591784430917" />
+    <state width="1366" height="257" key="GridCell.Tab.0.center" timestamp="1591784430917">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1366" height="257" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591784430917" />
+    <state width="1366" height="257" key="GridCell.Tab.0.left" timestamp="1591784430917">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1366" height="257" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591784430917" />
+    <state width="1366" height="257" key="GridCell.Tab.0.right" timestamp="1591784430917">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1366" height="257" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591784430917" />
+    <state x="178" y="0" key="SettingsEditor" timestamp="1588260350149">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="178" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1588260350149" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1591880715035">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591880715035" />
+  </component>
+</project>
